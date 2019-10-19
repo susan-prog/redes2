@@ -1,2 +1,2 @@
 FROM ubuntu:16.04
-CMD ["echo","Prueba de redes holi"]
+CMD ["echo","Prueba de redes holi 2"]
